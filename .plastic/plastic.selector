@@ -1,0 +1,4 @@
+repository "Restaurhunt 2025-12-02_20-06-23/Restaurhunt@3574025743621@cloud"
+  path "/"
+    br "/main"
+    co "/main"
