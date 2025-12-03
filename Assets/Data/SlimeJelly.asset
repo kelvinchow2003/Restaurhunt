@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d345819533a35494e9f809789403194c, type: 3}
   m_Name: SlimeJelly
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
+  itemName: Slime Jelly
   description: 
   icon: {fileID: 0}
   itemType: 0
-  sellPrice: 0
+  sellPrice: 10
